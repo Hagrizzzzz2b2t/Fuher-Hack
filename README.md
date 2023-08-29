@@ -12,3 +12,4 @@ This client needs to be built using Gradle, one of the next releases will have a
 
 		They Do not have Github accounts but I will link them if they do! 
 		This client is built for the Imperials of 2b2t.
+		However feel free to use even if you are not. If you have any questions post a comment, and please star I need to feed my 420 starving children!
