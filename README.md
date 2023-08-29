@@ -1,5 +1,7 @@
 # Fuher-Hack
-#1 Client out there for having Fun! Offical Imperial Client!
+#1 Client out there!
+
+Offical Imperial Client!
 
 Download from Releases! other files are not correct!
 
