@@ -10,6 +10,7 @@ This client needs to be built using Gradle, one of the next releases will have a
  		SquidSpams
 		LordKrown
 
-		They Do not have Github accounts but I will link them if they do! 
-		This client is built for the Imperials of 2b2t.
-		However feel free to use even if you are not. If you have any questions post a comment, and please star I need to feed my 420 starving children!
+	They Do not have Github accounts but I will link them if they do! 
+	This client is built for the Imperials of 2b2t.
+![ballls](https://github.com/Hagrizzzzz2b2t/Fuher-Hack/assets/113060320/7da1229d-7a32-438c-973d-22aa36476830)
+	However feel free to use even if you are not. If you have any questions post a comment, and please star I need to feed my 420 starving children!
