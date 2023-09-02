@@ -14,8 +14,6 @@ This client needs to be built using Gradle, one of the next releases will have a
  		SquidSpams
 		LordKrown
 
-![icon](https://github.com/Hagrizzzzz2b2t/Fuher-Hack/assets/113060320/4228a298-c267-4873-b673-8b258261bb64)
-
 
  They Do not have Github accounts but I will link them if they do! 
 
